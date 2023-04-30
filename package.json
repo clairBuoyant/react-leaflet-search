@@ -37,7 +37,7 @@
         "@types/react-dom": "^16.9.4",
         "@types/react-leaflet": "^2.5.0",
         "autoprefixer": "^9.7.3",
-        "cssnano": "^4.1.10",
+        "cssnano": "^6.0.1",
         "leaflet": "^1.6.0",
         "postcss": "^7.0.24",
         "prop-types": "^15.7.2",
